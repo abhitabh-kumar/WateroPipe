@@ -1,0 +1,688 @@
+{
+  "title": "Premium Granite Collection",
+  "subtitle": "Discover Our Exquisite Range",
+  "products": [
+    {
+      "id": "fish-brown-granite",
+      "category": "Granite",
+      "name": "Fish Brown Granite",
+      "image": "Fish-Brown.webp",
+      "alt": "Alaska Gold Granite",
+      "description": "Fish Brown Granite is a durable natural stone with a rich brown base and unique fish-scale-like patterns.\r\nIt is widely used for countertops."
+    },
+    {
+      "id": "gem-red-granite",
+      "category": "Granite",
+      "name": "Gem Red Granite",
+      "image": "gem-red-granite-slabs-tiles-india-red-granite-p9182-1b.jpg",
+      "alt": "Alaska Gold Granite",
+      "description": "Gem Red Granite is a premium natural stone with a deep red base highlighted by black and grey mineral patterns, giving it a bold and luxurious look."
+    },
+    {
+      "id": "candy-blue-granite",
+      "category": "Granite",
+      "name": "Candy Blue Granite",
+      "image": "BlueGalaxyGranite.jpg",
+      "alt": "Alaska Gold Granite",
+      "description": "Candy Blue Granite is a decorative stone featuring a vibrant blue base with mixed shades of grey, black, and sometimes light patterns."
+    },
+    {
+      "id": "blue-ice-granite",
+      "category": "Granite",
+      "name": "Blue Ice Granite",
+      "image": "IceBlueGranite.webp",
+      "alt": "Alaska Gold Granite",
+      "description": "Blue Ice Granite is a natural stone with a cool blue-grey base mixed with white, silver, and black speckles, giving it an icy and elegant appearance."
+    },
+    {
+      "id": "imperial-red-granite",
+      "category": "Granite",
+      "name": "Imperial Red Granite",
+      "image": "New-imperial-red-granite.webp",
+      "alt": "Alaska Gold Granite",
+      "description": "Imperial Red Granite is a premium natural stone with a deep red background highlighted by black, grey, and white speckles"
+    },
+    {
+      "id": "lakha-red-granite",
+      "category": "Granite",
+      "name": "Lakha Red Granite",
+      "image": "LakhaRedGranite.webp",
+      "alt": "Alaska Gold Granite",
+      "description": "Lakha Red Granite is a natural stone with a bright red base and fine black and grey grains, giving it a uniform and vibrant look."
+    },
+    {
+      "id": "lichi-red-granite",
+      "category": "Granite",
+      "name": "Lichi Red Granite",
+      "image": "LICHI-RED.webp",
+      "alt": "Alaska Gold Granite",
+      "description": "Lichi Red Granite is a natural stone with a mix of red, grey, and black tones and a unique textured surface that resembles the skin of a litchi fruit."
+    },
+    {
+      "id": "k-white-granite",
+      "category": "Granite",
+      "name": "K White Granite",
+      "image": "k-white-granite-slabs-991410-0-B.jpg",
+      "alt": "Alaska Gold Granite",
+      "description": "K White Granite is a light-colored natural stone featuring a white or off-white base with subtle grey and black speckles, giving it a clean and elegant look"
+    },
+    {
+      "id": "newton-white-granite",
+      "category": "Granite",
+      "name": "Newton White Granite",
+      "image": "NEWTON-WHITE.webp",
+      "alt": "Alaska Gold Granite",
+      "description": "Natural Stone Type: Granite is a durable, crystalline igneous rock made mainly of quartz and feldspar with other minerals (such as mica)."
+    },
+    {
+      "id": "malwada-gold-granite",
+      "category": "Granite",
+      "name": "Malwada Gold Granite",
+      "image": "Malwada-Yellow-Granite-2.webp",
+      "alt": "Alaska Gold Granite",
+      "description": "Malwada Gold Granite (also sometimes spelled Malwara Gold or Malwada Yellow Granite) is a type of natural granite quarried in India"
+    },
+    {
+      "id": "marquina-black-granite",
+      "category": "Granite",
+      "name": "Marquina Black Granite",
+      "image": "marquina-black-granite-tile-1564476122-5022458.webp",
+      "alt": "Alaska Gold Granite",
+      "description": "Marquina Black Granite is a natural black granite stone with a deep dark background accented by white or grey veins or flecks."
+    },
+    {
+      "id": "framed-check-cnc-granite",
+      "category": "Granite",
+      "name": "Framed Check CNC Granite",
+      "image": "https://5.imimg.com/data5/SELLER/Default/2023/5/309309087/BT/TW/WU/8089296/16mm-cnc-square-check-granite-slab.jpeg",
+      "alt": "Alaska Gold Granite"
+    },
+    {
+      "id": "alaska-red-granite",
+      "category": "Granite",
+      "name": "Alaska Red Granite",
+      "image": "alaska-red-granite.webp",
+      "alt": "Alaska Gold Granite",
+      "description": "Natural red granite slabs with bold red tones and contrasting mineral specks; versatile for kitchen tops and flooring."
+    },
+    {
+      "id": "multi-red-granite",
+      "category": "Granite",
+      "name": "Multi Red Granite",
+      "image": "MultiRedGranite.webp",
+      "alt": "Alaska Gold Granite",
+      "description": "Classic red multicoloured natural stone slab with vibrant colour mix; ideal for countertops & floors."
+    },
+    {
+      "id": "khalda-cream-granite",
+      "category": "Granite",
+      "name": "Khalda Cream Granite",
+      "image": "khalda-cream-granite.jpg",
+      "alt": "Alaska Gold Granite",
+      "description": "Khalda Cream Granite is a natural light‑cream coloured granite with subtle warm speckles, offering a classic and elegant look. Its durable, heat."
+    },
+    {
+      "id": "rose-leaf-granite",
+      "category": "Granite",
+      "name": "Rose Leaf Granite",
+      "image": "ROSE-LEAF.webp",
+      "alt": "Alaska Gold Granite",
+      "description": "Rose Leaf Granite refers to a granite variety with pinkish‑rose or warm red tones often mixed with darker mineral flecks — giving it a subtle, natural patterned."
+    },
+    {
+      "id": "fish-gold-granite",
+      "category": "Granite",
+      "name": "Fish Gold Granite",
+      "image": "Fish-Gold-Granite-Slab-2-cm-SGR-zoom.jpg",
+      "alt": "Alaska Gold Granite",
+      "description": "Fish Gold Granite is a natural Indian granite known for its shimmering gold tones interspersed with subtle earthy patterns, evoking the glint of sunlight on water."
+    },
+    {
+      "id": "star-black-granite",
+      "category": "Granite",
+      "name": "Star Black Granite",
+      "image": "Star-Black-South-Granite.png",
+      "alt": "Alaska Gold Granite",
+      "description": "Star Black Granite is a premium natural Indian granite characterized by its deep black base dotted with subtle, sparkling white or silver flecks, resembling a starry night sky."
+    },
+    {
+      "id": "steel-gray-matt-finish-granite",
+      "category": "Granite",
+      "name": "Steel Gray Matt Finish Granite",
+      "image": "product-jpeg.jpg",
+      "alt": "Alaska Gold Granite",
+      "description": "Steel Gray Matt Finish Granite is a natural Indian granite known for its sleek, uniform gray tones with a subtle matte texture. Its understated elegance."
+    },
+    {
+      "id": "tan-brown-granite",
+      "category": "Granite",
+      "name": "Tan Brown Granite",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQKhkKY2PqEZGMdbiHMVY0vzpJhTK0AqpO4pw&s",
+      "alt": "Alaska Gold Granite",
+      "description": "Tan Brown Granite is a natural Indian granite renowned for its warm brown and tan hues interspersed with black and chocolate flecks."
+    },
+    {
+      "id": "wooden-brown-granite",
+      "category": "Granite",
+      "name": "Wooden Brown Granite",
+      "image": "WOODEN-BROWN.webp",
+      "alt": "Alaska Gold Granite",
+      "description": "Wooden Brown Granite is a natural Indian granite known for its warm, wood-like brown tones with intricate patterns and subtle veins."
+    },
+    {
+      "id": "tiger-multi-granite",
+      "category": "Granite",
+      "name": "Tiger Multi Granite",
+      "image": "tiger-skin-3.jpg",
+      "alt": "Alaska Gold Granite",
+      "description": "Tiger Multi Granite is a natural Indian granite known for its striking blend of golden, brown, and black streaks, reminiscent of a tiger’s coat."
+    },
+    {
+      "id": "copenhagen-gold-granite",
+      "category": "Granite",
+      "name": "Copenhagen Gold Granite",
+      "image": "https://i.pinimg.com/736x/5d/62/51/5d62512f1163df94103e3787c07864ab.jpg",
+      "alt": "Alaska Gold Granite",
+      "description": "Copenhagen Gold Granite is a natural Indian granite celebrated for its rich golden hues blended with subtle brown and black veins"
+    },
+    {
+      "id": "bamboo-brown-granite",
+      "category": "Granite",
+      "name": "Bamboo Brown Granite",
+      "image": "Brown-Pearl_3.jpg",
+      "alt": "Alaska Gold Granite",
+      "description": "Bamboo Brown Granite is a natural Indian granite known for its warm, earthy brown tones with subtle golden and black streaks, reminiscent of bamboo’s natural hues."
+    },
+    {
+      "id": "alpine-white-granite",
+      "category": "Granite",
+      "name": "Alpine White Granite",
+      "image": "ALPINE-WHITE.webp",
+      "alt": "Alaska Gold Granite",
+      "description": "Alpine White Granite features subtle grey veins over a crisp white background, offering a clean and modern aesthetic. Durable and stylish, it’s suitable for countertops, exteriors, and flooring applications."
+    },
+    {
+      "id": "manak-red-granite",
+      "category": "Granite",
+      "name": "Manak Red granite",
+      "image": "https://mawrbled.com/cdn/shop/files/LakshmiRedGranite.jpg?v=1701244896&width=1024",
+      "alt": "Alaska Gold Granite",
+      "description": "natural stone with a rich red or reddish‑brown color background. It’s part of the family of natural red granites quarried and supplied from different parts of India."
+    },
+    {
+      "id": "majestic-dark-black-granite",
+      "category": "Granite",
+      "name": "Majestic Dark Black Granite",
+      "image": "MAJESTIC-BLACK.webp",
+      "alt": "Alaska Gold Granite",
+      "description": "Majestic Dark Black Granite (also known as Majestic Black) is a premium natural stone with a deep black base highlighted by subtle grey or silver speckles."
+    },
+    {
+      "id": "magic-ball-granite",
+      "category": "Granite",
+      "name": "Magic Ball Granite",
+      "image": "Magic-Ball-Granite-scaled.jpg",
+      "alt": "Alaska Gold Granite",
+      "description": "Magic Ball Granite is a striking natural stone with a dark base and scattered circular or “ball-like” patterns in shades of gold, brown"
+    },
+    {
+      "id": "madhuri-gold-granite",
+      "category": "Granite",
+      "name": "Madhuri Gold Granite",
+      "image": "MADHURI-GOLD.webp",
+      "alt": "Alaska Gold Granite",
+      "description": "Madhuri Gold Granite is a luxurious natural stone with a warm golden-brown base accented by darker brown and black speckles."
+    },
+    {
+      "id": "lily-pink-granite",
+      "category": "Granite",
+      "name": "Lily Pink Granite",
+      "image": "lily-pink-granite-slab-841.jpg",
+      "alt": "Alaska Gold Granite",
+      "description": "Lily Pink granite (often confused with or similar to Rosy Pink granite) is a light pink Indian granite known for its soft color and uniform grain pattern."
+    },
+    {
+      "id": "himalayan-blue-granite",
+      "category": "Granite",
+      "name": "Himalayan Blue Granite",
+      "image": "Himalayan-Blue-Granite-Stone.jpg",
+      "alt": "Alaska Gold Granite",
+      "description": "Himalayan Blue Granite is a premium natural stone from India, known for its multi-color waves and elegant blue-grey tones."
+    },
+    {
+      "id": "grey-plain-granite",
+      "category": "Granite",
+      "name": "Grey Plain Granite",
+      "image": "https://media.istockphoto.com/id/184873130/photo/marble-texture.jpg?s=612x612&w=0&k=20&c=slBtPd3045iKqy9HR2VzWOcVvMCv6Du62-vyEZwAwWg=",
+      "alt": "Alaska Gold Granite",
+      "description": "Grey plain granite is a simple, uniform grey-colored natural stone with very minimal design or pattern. It is widely used for modern, clean, and budget-friendly interiors."
+    },
+    {
+      "id": "exotic-rose-gold-granite",
+      "category": "Granite",
+      "name": "Exotic Rose Gold Granite",
+      "image": "https://granite.petrosstone.com/wp-content/uploads/2025/02/Rose-Gold-Granite.jpg",
+      "alt": "Alaska Gold Granite",
+      "description": "Exotic Rose Gold granite is a real natural stone, not artificial. It belongs to the premium “exotic granite” category, known for rare colors and artistic patterns."
+    },
+    {
+      "id": "panchanwada-granite",
+      "category": "Granite",
+      "name": "Panchanwada Granite",
+      "image": "sweet-pink.jpg",
+      "alt": "Alaska Gold Granite",
+      "description": "Panchanwada granite (also written as Panchalwada / Panchavada granite) is a popular Indian granite, mainly known for its pink-based color and simple elegant pattern."
+    },
+    {
+      "id": "cosmic-black-granite",
+      "category": "Granite",
+      "name": "Cosmic Black Granite",
+      "image": "Cosmic-Black.jpg",
+      "alt": "Alaska Gold Granite",
+      "description": "Cosmic Black granite is one of the most premium and exotic black granites, famous for its bold, flowing patterns and luxurious look."
+    },
+    {
+      "id": "river-cosmic-granite",
+      "category": "Granite",
+      "name": "River Cosmic Granite",
+      "image": "Sea-Wave-Cosmic-Granite.jpg",
+      "alt": "Alaska Gold Granite",
+      "description": "River Cosmic granite is a dark, high-end granite with flowing wave patterns, giving a bold, stylish, and premium look to interiors."
+    },
+    {
+      "id": "monte-cristo-granite",
+      "category": "Granite",
+      "name": "Monte Cristo Granite",
+      "image": "Monte-cristo-granite.webp",
+      "alt": "Alaska Gold Granite",
+      "description": "Monte Cristo granite is a premium natural stone known for its elegant, flowing patterns and luxurious appearance. It is widely used in modern interiors for countertops, flooring, and wall cladding."
+    },
+    {
+      "id": "alaska-gold-granite",
+      "category": "Granite",
+      "name": "Alaska Gold Granite",
+      "image": "https://marmilix.com/AlaskaGoldGranite%20(2).webp",
+      "alt": "Alaska Gold Granite",
+      "description": "Alaska Gold Granite showcases a radiant blend of gold, cream, and brown tones with a natural shimmer. Perfect for luxurious countertops, wall cladding, and flooring in both residential and commercial spaces."
+    },
+    {
+      "id": "r-black-granite",
+      "category": "Granite",
+      "name": "R Black Granite",
+      "image": "https://marmilix.com/RBlackGranite%20(1).webp",
+      "alt": "R Black Granite",
+      "description": "A."
+    },
+    {
+      "id": "azul-white-granite",
+      "category": "Granite",
+      "name": "Azul White Granite",
+      "image": "AzulWhiteGranite.webp",
+      "alt": "Azul White Granite",
+      "description": "Alaska Gold Granite showcases a radiant blend of gold, cream, and brown tones with a natural shimmer. Perfect for luxurious countertops, wall cladding, and flooring in both residential and commercial spaces."
+    },
+    {
+      "id": "desert-brown-granite",
+      "category": "Granite",
+      "name": "Desert Brown Granite",
+      "image": "Desertbrowngranite (2).webp",
+      "alt": "Desert Brown Granite",
+      "description": "Desert Brown Granite features rich brown and black tones with fine grains, adding warmth to interiors. Its strength and low maintenance make it ideal for countertops, cladding, and outdoor spaces."
+    },
+    {
+      "id": "kuppam-white-granite",
+      "category": "Granite",
+      "name": "Kuppam White Granite",
+      "image": "Kuppamwhitegranite (1).webp",
+      "alt": "Kuppam White Granite",
+      "description": "Kuppam White Granite is a light-hued Indian granite with grey and green specks, valued for its durability. Ideal for flooring, wall cladding, kitchen counters, and staircases."
+    },
+    {
+      "id": "p-white-granite",
+      "category": "Granite",
+      "name": "P White Granite",
+      "image": "PwhiteGranite (1).webp",
+      "alt": "P White Granite"
+    },
+    {
+      "id": "silver-grey-granite",
+      "category": "Granite",
+      "name": "Silver Grey Granite",
+      "image": "SilverGreyGranite (1).webp",
+      "alt": "Silver Grey Granite"
+    },
+    {
+      "id": "silver-grey-honed-granite",
+      "category": "Granite",
+      "name": "Silver Grey Honed Granite",
+      "image": "silvergreyhonedgranite (1).webp",
+      "alt": "Silver Grey Honed Granite",
+      "description": "Silver Grey Honed Granite features a matte finish with elegant grey undertones. Its refined surface makes it perfect for contemporary interiors and exterior façades."
+    },
+    {
+      "id": "green-galaxy-granite",
+      "category": "Granite",
+      "name": "Green Galaxy Granite",
+      "image": "greengalaxygranite (1).webp",
+      "alt": "Green Galaxy Granite",
+      "description": "Green Galaxy Granite features vibrant green tones with golden sparkles, resembling a starry sky. Ideal for countertops, kitchen tops, and statement flooring."
+    },
+    {
+      "id": "tiger-granite",
+      "category": "Granite",
+      "name": "Tiger Granite",
+      "image": "TigerGranite (1).webp",
+      "alt": "Tiger Granite",
+      "description": "Tiger Granite is characterized by bold streaks of brown and black, resembling tiger stripes. This eye-catching granite adds character to countertops, flooring, and decorative walls."
+    },
+    {
+      "id": "s-white-granite",
+      "category": "Granite",
+      "name": "S White Granite",
+      "image": "SWhiteGranite (1).webp",
+      "alt": "S White Granite",
+      "description": "S White Granite features subtle grey and white specks that create a clean, classic appeal. Suitable for countertops, floors, and cladding in both residential and commercial spaces."
+    },
+    {
+      "id": "kotda-granite",
+      "category": "Granite",
+      "name": "Kotda Granite",
+      "image": "KotdaGranite (1).webp",
+      "alt": "Kotda Granite",
+      "description": "Kotda Granite is a durable Indian granite with natural earthy patterns. Its strength and texture make it perfect for high-traffic flooring, kitchen slabs, and exterior walls."
+    },
+    {
+      "id": "alaska-white-granite",
+      "category": "Granite",
+      "name": "Alaska White Granite",
+      "image": "https://www.work-tops.com/cdn/shop/products/qon8GiUH8o.jpg?v=1669888894",
+      "alt": "Alaska White Granite",
+      "description": "Alaska White Granite combines silver, grey, and white minerals to create a sophisticated surface ideal for kitchen islands, flooring, and bathroom vanities. Its durability and elegance make it a timeless choice."
+    },
+    {
+      "id": "spring-green-granite",
+      "category": "Granite",
+      "name": "Spring Green Granite",
+      "image": "springgreengranite (1).webp",
+      "alt": "Spring Green Granite",
+      "description": "Spring Green Granite brings a fresh and vibrant touch to interiors with its unique green patterns. Durable and elegant, it’s perfect for countertops, vanities, and flooring."
+    },
+    {
+      "id": "jalore-granite",
+      "category": "Granite",
+      "name": "Jalore Granite",
+      "image": "JaloreGranite (1).webp",
+      "alt": "Jalore Granite",
+      "description": "Jalore Granite, sourced from Rajasthan, features subtle grey and pink tones with natural strength and charm. It’s an ideal choice for outdoor flooring, cladding, and commercial projects."
+    },
+    {
+      "id": "jet-black-granite",
+      "category": "Granite",
+      "name": "Jet Black Granite",
+      "image": "JetBlackGranite (1).webp",
+      "alt": "Jet Black Granite",
+      "description": "Jet Black Granite is one of the most sought-after black stones, known for its deep, uniform shade and polished finish. Perfect for kitchen countertops, flooring, monuments, and modern interiors."
+    },
+    {
+      "id": "blue-galaxy-granite",
+      "category": "Granite",
+      "name": "Blue Galaxy Granite",
+      "image": "BlueGalaxyGranite (1).webp",
+      "alt": "Blue Galaxy Granite",
+      "description": "Blue Galaxy Granite displays deep navy blue hues with metallic flecks of silver and gold. A luxurious stone perfect for kitchen islands, feature walls, and high-end interiors."
+    },
+    {
+      "id": "dark-brown-granite",
+      "category": "Granite",
+      "name": "Dark Brown Granite",
+      "image": "Darkbrowngranite (1).webp",
+      "alt": "Dark Brown Granite",
+      "description": "Dark Brown Granite features rich coffee tones with intricate grains, ideal for creating a warm, rustic ambiance. Commonly used for countertops, floors, and outdoor projects."
+    },
+    {
+      "id": "black-forest-granite",
+      "category": "Granite",
+      "name": "Black Forest Granite",
+      "image": "BlackForestGranite (1).webp",
+      "alt": "Black Forest Granite",
+      "description": "Black Forest Granite is a striking black stone with wavy white patterns that mimic a natural forest design. A luxurious choice for walls, kitchen counters, and statement spaces."
+    },
+    {
+      "id": "cats-eye-brown-granite",
+      "category": "Granite",
+      "name": "Cats Eye Brown Granite",
+      "image": "CatsEyeBrownGranite (1).webp",
+      "alt": "Cats Eye Brown Granite"
+    },
+    {
+      "id": "ice-blue-granite",
+      "category": "Granite",
+      "name": "Ice Blue Granite",
+      "image": "IceBlueGranite (1).webp",
+      "alt": "Ice Blue Granite",
+      "description": "Ice Blue Granite offers a cool, sophisticated look with its icy blue undertones and smooth texture. A top pick for kitchen slabs, floors, and upscale commercial interiors."
+    },
+    {
+      "id": "safari-blue-granite",
+      "category": "Granite",
+      "name": "Safari Blue Granite",
+      "image": "SafariBlueGranite (1).webp",
+      "alt": "Safari Blue Granite",
+      "description": "Safari Blue Granite is an exotic Indian granite showcasing dark blue waves and subtle grey tones. It’s perfect for countertops, flooring, and luxury interior spaces."
+    },
+    {
+      "id": "pokarna-green-granite",
+      "category": "Granite",
+      "name": "Pokarna Green Granite",
+      "image": "PokarnaGreenGranite (1).webp",
+      "alt": "Pokarna Green Granite",
+      "description": "Pokarna Green Granite features deep green shades with intricate natural patterns. It’s an ideal choice for modern kitchens, feature walls, and outdoor décor."
+    },
+    {
+      "id": "z-black-granite",
+      "category": "Granite",
+      "name": "Z Black Granite",
+      "image": "ZBlackGranite (2).webp",
+      "alt": "Z Black Granite",
+      "description": "Z Black Granite is a premium jet-black stone with a high-polish mirror finish. Ideal for sleek kitchen counters, flooring, and high-end architectural projects that demand sophistication."
+    },
+    {
+      "id": "black-pearl-granite",
+      "category": "Granite",
+      "name": "Black Pearl Granite",
+      "image": "BlackPearlGranite (1).webp",
+      "alt": "Black Pearl Granite",
+      "description": "Black Pearl Granite sparkles with silver and grey flecks over a deep black base. A luxurious choice for contemporary kitchens, vanities, and feature walls."
+    },
+    {
+      "id": "fish-black-granite",
+      "category": "Granite",
+      "name": "Fish Black Granite",
+      "image": "https://stonegalleria.in/admin/images/product_images/fish-black-granite-Stone-Galleria-800x800.webp",
+      "alt": "Fish Black Granite",
+      "description": "Fish Black Granite stands out with its unique fish-scale patterns across a dark base. Known for strength and beauty, it’s perfect for accent walls, flooring, and modern kitchen countertops."
+    },
+    {
+      "id": "telephone-black-granite",
+      "category": "Granite",
+      "name": "Telephone Black Granite",
+      "image": "telephoneblackgranite (1).webp",
+      "alt": "Telephone Black Granite",
+      "description": "Telephone Black Granite offers a deep black surface with a uniform, refined texture. A timeless favorite for countertops, vanity tops, and premium wall cladding in luxury interiors."
+    },
+    {
+      "id": "adhunik-brown-granite",
+      "category": "Granite",
+      "name": "Adhunik Brown Granite",
+      "image": "images.jfif",
+      "alt": "Adhunik Brown Granite",
+      "description": "Adhunik Brown Granite features rich brown shades with natural grains that enhance traditional and modern spaces alike. Its durability makes it ideal for flooring, kitchen slabs, and exterior cladding."
+    },
+    {
+      "id": "colonial-cream-granite",
+      "category": "Granite",
+      "name": "Colonial Cream Granite",
+      "image": "ColonialGoldGranite (1).webp",
+      "alt": "Colonial Cream Granite",
+      "description": "Colonial Cream Granite features soft cream tones with delicate golden flecks, bringing warmth and sophistication to any room. Perfect for kitchens, lobbies, and designer interiors."
+    },
+    {
+      "id": "blue-paradise-granite",
+      "category": "Granite",
+      "name": "Blue Paradise Granite",
+      "image": "BlueparadiseGranite (1).webp",
+      "alt": "Blue Paradise Granite",
+      "description": "Blue Paradise Granite features deep blue and grey hues with shimmering crystals. This luxurious granite enhances the look of kitchen islands, bathrooms, and office spaces."
+    },
+    {
+      "id": "blue-dunes-granite",
+      "category": "Granite",
+      "name": "Blue Dunes Granite",
+      "image": "BlueDunesGranite (1).webp",
+      "alt": "Blue Dunes Granite",
+      "description": "Blue Dunes Granite offers a soothing blend of blue, beige, and sand tones that mimic desert waves. It’s an elegant choice for countertops, walls, and contemporary flooring."
+    },
+    {
+      "id": "sea-green-granite",
+      "category": "Granite",
+      "name": "Sea Green Granite",
+      "image": "Seagreengranite (1).webp",
+      "alt": "Sea Green Granite",
+      "description": "Sea Green Granite captures the serene beauty of ocean tones with subtle waves and a polished surface. A beautiful fit for flooring, counters, and spa-inspired spaces."
+    },
+    {
+      "id": "green-marinace-granite",
+      "category": "Granite",
+      "name": "Green Marinace Granite",
+      "image": "Greenmarinacegranite (1).webp",
+      "alt": "Green Marinace Granite",
+      "description": "Green Marinace Granite is a unique pebble-patterned stone combining shades of green and brown. Its bold texture makes it ideal for artistic interiors and premium projects."
+    },
+    {
+      "id": "sapphire-blue-granite",
+      "category": "Granite",
+      "name": "Sapphire Blue Granite",
+      "image": "SapphireBlueGranite (1).webp",
+      "alt": "Sapphire Blue Granite",
+      "description": "Sapphire Blue Granite dazzles with royal blue tones and metallic flecks, making it a centerpiece in any design. Perfect for luxurious kitchens, living rooms, and feature walls."
+    },
+    {
+      "id": "honey-brown-granite",
+      "category": "Granite",
+      "name": "Honey Brown Granite",
+      "image": "HoneyBrownGranite (1).webp",
+      "alt": "Honey Brown Granite",
+      "description": "Honey Brown Granite radiates golden-brown tones with a glossy finish, adding natural warmth to interiors. Suitable for floors, tabletops, and kitchen surfaces."
+    },
+    {
+      "id": "coffee-brown-granite",
+      "category": "Granite",
+      "name": "Coffee Brown Granite",
+      "image": "Coffeebrowngranite (1).webp",
+      "alt": "Coffee Brown Granite",
+      "description": "Coffee Brown Granite features deep brown shades with rich, natural texture. A durable and elegant choice for countertops, staircases, and exterior cladding."
+    },
+    {
+      "id": "sadarali-grey-granite",
+      "category": "Granite",
+      "name": "Sadarali Grey Granite",
+      "image": "Sadaraligreygranite (1).webp",
+      "alt": "Sadarali Grey Granite",
+      "description": "Sadarali Grey Granite is a smooth, elegant stone with light grey shades and a uniform finish. Known for its strength and versatility, it’s perfect for floors, facades, and staircases."
+    },
+    {
+      "id": "andromeda-gold-granite",
+      "category": "Granite",
+      "name": "Andromeda Gold Granite",
+      "image": "andromedagoldgranite (1).webp",
+      "alt": "Andromeda Gold Granite",
+      "description": "Andromeda Gold Granite offers an eye-catching mix of gold and black veins across a creamy background. Ideal for kitchen islands, luxury bathrooms, and statement walls."
+    },
+    {
+      "id": "geriba-gold-granite",
+      "category": "Granite",
+      "name": "Geriba Gold Granite",
+      "image": "GeribaGoldGranite (1).webp",
+      "alt": "Geriba Gold Granite",
+      "description": "Geriba Gold Granite features rich golden-brown hues with a subtle sparkle, adding warmth and depth to any space. A popular choice for kitchen slabs, hallways, and hotel lobbies."
+    },
+    {
+      "id": "surf-green-granite",
+      "category": "Granite",
+      "name": "Surf Green Granite",
+      "image": "SurfGreenGranite (1).webp",
+      "alt": "Surf Green Granite",
+      "description": "Surf Green Granite features wave-like veins across a light green base, evoking ocean tranquility. A sophisticated choice for interior flooring, countertops, and spa spaces."
+    },
+    {
+      "id": "alaska-pink-granite",
+      "category": "Granite",
+      "name": "Alaska Pink Granite",
+      "image": "pinkk.webp",
+      "alt": "Alaska Pink Granite",
+      "description": "Alaska Pink Granite features soft pink hues with natural mineral patterns, creating a warm and elegant look. A durable choice for countertops, flooring, and interior wall cladding"
+    },
+    {
+      "id": "apple-green-granite",
+      "category": "Granite",
+      "name": "Apple Green Granite",
+      "image": "Apple-Green-Granite.jpg",
+      "alt": "Apple Green Granit"
+    },
+    {
+      "id": "baghera-black-granite",
+      "category": "Granite",
+      "name": "Baghera Black Granite",
+      "image": "BAGERA-BLACK.webp",
+      "alt": "Baghera Black Granite",
+      "description": "Baghera Black Granite features a deep black base with subtle natural speckles, offering a bold and timeless look. A durable choice for countertops, flooring, and elegant interior applications."
+    },
+    {
+      "id": "chima-pink-granite",
+      "category": "Granite",
+      "name": "Chima Pink Granite",
+      "image": "chimaaa.webp",
+      "alt": "Chima Pink Granite",
+      "description": "Chima Pink Granite features soft pink tones with fine black and grey speckles, creating a balanced and elegant appearance. A durable choice for countertops, flooring, and interior wall cladding."
+    },
+    {
+      "id": "r-black-candid-granite",
+      "category": "Granite",
+      "name": "R Black Candid granite",
+      "image": "can.webp",
+      "alt": "R Black Candid granite"
+    },
+    {
+      "id": "rosy-pink-granite",
+      "category": "Granite",
+      "name": "Rosy Pink Granite",
+      "image": "rosy-pink-granite-p516161-3b.jpg",
+      "alt": "Rosy Pink Granite",
+      "description": "Rosy Pink Granite showcases warm pink tones with subtle mineral speckles, creating a soft and elegant look. Ideal for countertops, flooring, and stylish interior accents."
+    },
+    {
+      "id": "ocean-green-granite",
+      "category": "Granite",
+      "name": "Ocean Green Granite",
+      "image": "OceanGreenGranite (1).webp",
+      "alt": "Ocean Green Granite",
+      "description": "Ocean Green Granite showcases sea-green hues with flowing wave-like patterns, creating a calm and refreshing look. Perfect for kitchen countertops, bathroom walls, and luxury flooring."
+    },
+    {
+      "id": "shiva-gold-granite",
+      "category": "Granite",
+      "name": "Shiva Gold Granite",
+      "image": "ShivaGoldGranite (1).webp",
+      "alt": "Shiva Gold Granite",
+      "description": "Shiva Gold Granite combines warm gold and beige tones with natural veining. This elegant Indian granite is perfect for flooring, countertops, and wall cladding in sophisticated interiors."
+    },
+    {
+      "id": "baroda-green-granite",
+      "category": "Granite",
+      "name": "Baroda Green Granite",
+      "image": "BarodaGreenGranite (1).webp",
+      "alt": "Baroda Green Granite",
+      "description": "Baroda Green Granite is a natural green stone known for strength and earthy texture. Ideal for exterior walls, paving, and elegant interior flooring."
+    }
+  ]
+}

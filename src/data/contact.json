@@ -1,0 +1,40 @@
+{
+  "hero": {
+    "eyebrow": "Get In Touch",
+    "badge": "Available 24/7 for International Clients",
+    "title": "Get In Touch",
+    "subtitle": "Let's Discuss Your Project"
+  },
+  "office": {
+    "title": "Visit Our Office",
+    "address": "Marmilix Baroda road, Sheopur Madhya Pradesh - India 476337"
+  },
+  "phones": ["+91 8109663368", "+91 7415054977"],
+  "emails": ["info@marmilix.com", "marmilix.official@gmail.com"],
+  "faq": [
+    {
+      "question": "How long does international shipping take?",
+      "answer": "Shipping usually takes 15–25 days to the Middle East, 20–30 days to Europe, and 25–35 days to Africa or the Americas."
+    },
+    {
+      "question": "Can you export to African countries?",
+      "answer": "Yes, we regularly export marble and granite to African nations including Kenya, Nigeria, Tanzania, and Ghana."
+    },
+    {
+      "question": "Do you provide stone samples before bulk order?",
+      "answer": "Yes, stone samples are provided upon request before finalizing bulk orders."
+    },
+    {
+      "question": "What quality certifications do you follow?",
+      "answer": "All products adhere to ISO and CE standards for quality and durability."
+    }
+  ],
+  "formFields": [
+    { "name": "name", "label": "Full Name", "type": "text", "required": true },
+    { "name": "email", "label": "Email Address", "type": "email", "required": true },
+    { "name": "phone", "label": "Phone Number", "type": "tel", "required": true },
+    { "name": "country", "label": "Country", "type": "text", "required": true },
+    { "name": "message", "label": "Project Details", "type": "textarea", "required": true }
+  ],
+  "submitLabel": "Submit Inquiry"
+}

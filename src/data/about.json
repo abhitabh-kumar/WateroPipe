@@ -1,0 +1,37 @@
+{
+  "founder": {
+    "name": "Aryan Mittal",
+    "title": "Founder, Marmilix",
+    "headline": "WE DON'T JUST PROVIDE STONE — WE CREATE EXPERIENCES",
+    "story": "Marmilix was built on a simple belief: natural stone is more than a material—it's a story. Our collections reflect precision, sustainability, and artistry. With every marble slab, granite finish, and custom stone solution, we aim to deliver depth, character, and a lasting impression. Our mission is to bring India's finest stones to the world through trust, innovation, and craftsmanship."
+  },
+  "mission": {
+    "title": "Our Mission",
+    "text": "To deliver premium, ethically sourced marble and granite products that enhance modern spaces. We aim to blend quality, sustainability, and innovation to redefine natural stone experiences around the world."
+  },
+  "vision": {
+    "title": "Our Vision",
+    "text": "To become a globally admired Indian stone brand known for premium marble, granite, and custom stone artistry—while staying rooted in heritage craftsmanship and modern innovation."
+  },
+  "pillars": [
+    {
+      "title": "Premium Quality Marble & Granite",
+      "description": "Every Marmilix stone product—whether marble, granite, or custom natural stone—is sourced with precision, ensuring durability, elegance, and world-class quality."
+    },
+    {
+      "title": "Sustainable Stone Processing",
+      "description": "We combine modern stone-cutting technology with eco-friendly practices, delivering natural stone products that are both timeless and sustainable."
+    },
+    {
+      "title": "Customer-Centric Approach",
+      "description": "We prioritize transparency, trust, and unmatched service to ensure our clients—from homeowners to global importers—experience excellence at every step."
+    },
+    {
+      "title": "Heritage Meets Modern Craftsmanship",
+      "description": "Rooted in India's rich stone heritage, we blend traditional craftsmanship with contemporary design to create globally admired marble and granite solutions."
+    }
+  ],
+  "closing": {
+    "title": "Experience the Marmilix Difference"
+  }
+}

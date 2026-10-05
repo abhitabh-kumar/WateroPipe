@@ -1,0 +1,155 @@
+{
+  "hero": {
+    "title": "Redefining Luxury in Marble & Granite",
+    "subtitle": "Marmilix crafts timeless spaces with premium natural stones — precision, passion, and performance in every slab.",
+    "video": "video-main.mp4",
+    "cta": {
+      "label": "Explore Our Collection",
+      "href": "/marble"
+    }
+  },
+  "trust": {
+    "title": "Building Trust with Every Stone",
+    "subtitle": "A new era in stone craftsmanship, blending tradition and technology.",
+    "items": [
+      {
+        "badge": "Quality",
+        "text": "Premium Selection – Each stone is meticulously sourced and inspected to ensure exceptional durability and natural elegance."
+      },
+      {
+        "badge": "Global",
+        "text": "Expanding Horizons – Our growing export network connects Marmilix to clients worldwide, ensuring trust with every order."
+      }
+    ],
+    "cta": {
+      "label": "Learn More About Us",
+      "href": "/about-us"
+    },
+    "image": {
+      "src": "Luxury-Private-Residence.webp",
+      "alt": "Luxury Private Residence"
+    }
+  },
+  "featured": {
+    "title": "Featured Collection",
+    "subtitle": "Explore our curated range of premium marble and granite — each piece designed to inspire architecture and interior excellence.",
+    "products": [
+      {
+        "category": "Granite",
+        "name": "Alaska Gold Granite",
+        "image": "AlaskaGoldGranite (2).webp",
+        "href": "/granite"
+      },
+      {
+        "category": "Marble",
+        "name": "Invisible Grey Marble",
+        "image": "/gallery/InvisibleGreyMarble.webp",
+        "href": "/marble"
+      },
+      {
+        "category": "Granite",
+        "name": "R Black Granite",
+        "image": "RBlackGranite (1).webp",
+        "href": "/granite"
+      }
+    ],
+    "viewAll": {
+      "label": "View All Products",
+      "href": "/marble"
+    }
+  },
+  "whyChoose": {
+    "title": "Why Choose Marmilix",
+    "subtitle": "Discover what makes Marmilix your most reliable partner in marble and granite excellence.",
+    "items": [
+      {
+        "title": "Trusted Quality",
+        "description": "We deliver premium marble and granite with strict quality standards for every project."
+      },
+      {
+        "title": "Unique Designs",
+        "description": "Exclusive natural stone patterns and textures that add timeless elegance to any space."
+      },
+      {
+        "title": "Global Reach",
+        "description": "Supplying our premium stones across India and worldwide with reliable logistics."
+      },
+      {
+        "title": "Client Focused",
+        "description": "We build long-term relationships and offer personalized marble and granite solutions."
+      }
+    ]
+  },
+  "blogPreview": {
+    "title": "Latest Insights from Marmilix",
+    "subtitle": "Stay updated with trends in marble exports, stone care, and African design innovations.",
+    "posts": [
+      {
+        "title": "Why Is Super White Granite Trending in Modern Kitchen Designs?",
+        "excerpt": "Super White Granite is trending because it combines the elegant look of marble with the strong.",
+        "image": "WhatsApp Image 2026-04-07 at 16.24.45.jpeg",
+        "href": "/our-blogs"
+      },
+      {
+        "title": "Jet Black Granite Applications: From Kitchens to Fireplaces",
+        "excerpt": "Jet Black Granite is appreciated due to its dark colour, durability, and polished surface.",
+        "image": "nlotewntynine.jpeg",
+        "href": "/our-blogs"
+      },
+      {
+        "title": "Luxury Flooring Ideas with Calacatta and Golden Portoro Marble",
+        "excerpt": "Marble has always been the final choice when it comes to luxury flooring.",
+        "image": "marmmbloggggg.jpeg",
+        "href": "/our-blogs"
+      }
+    ],
+    "viewAll": {
+      "label": "View All Blogs",
+      "href": "/our-blogs"
+    }
+  },
+  "testimonials": {
+    "title": "What Our Clients Say",
+    "subtitle": "Trusted by builders, architects, and interior designers across India — Marmilix delivers stone excellence that transforms spaces.",
+    "items": [
+      {
+        "quote": "We used Marmilix marble for our Lucknow showroom. The finish, shine, and durability have impressed every visitor.",
+        "name": "Priya Tiwari",
+        "role": "Retail Designer, Lucknow (Uttar Pradesh)"
+      },
+      {
+        "quote": "The granite cladding used for our project in Kanpur turned out perfectly — consistent texture and seamless installation.",
+        "name": "Vivek Singh",
+        "role": "Contractor, Kanpur (Uttar Pradesh)"
+      },
+      {
+        "quote": "Our Agra villa features premium Marmilix marble in every room. The polish and natural color variation are just exquisite.",
+        "name": "Rohit Gupta",
+        "role": "Interior Consultant, Agra (Uttar Pradesh)"
+      },
+      {
+        "quote": "We collaborated with Marmilix on a heritage restoration in Jodhpur. Their Makrana marble added authentic charm.",
+        "name": "Divya Rathore",
+        "role": "Architect, Jodhpur (Rajasthan)"
+      },
+      {
+        "quote": "We used Marmilix marble for our Lucknow showroom. The finish, shine, and durability have impressed every visitor.",
+        "name": "Priya Tiwari",
+        "role": "Retail Designer, Lucknow (Uttar Pradesh)"
+      },
+      {
+        "quote": "The granite cladding used for our project in Kanpur turned out perfectly — consistent texture and seamless installation.",
+        "name": "Vivek Singh",
+        "role": "Contractor, Kanpur (Uttar Pradesh)"
+      }
+    ]
+  },
+  "partner": {
+    "title": "Partner With Marmilix",
+    "subtitle": "Looking for reliable marble and granite supply from India? Let's collaborate on your next large-scale construction or export project.",
+    "cta": {
+      "label": "Request a Quote",
+      "href": "/contact-us"
+    }
+  }
+}

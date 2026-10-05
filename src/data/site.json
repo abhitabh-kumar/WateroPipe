@@ -1,0 +1,67 @@
+{
+  "brand": {
+    "name": "marmilix",
+    "logo": "marmilixLogo1.webp",
+    "logoAlt": "Marmilix"
+  },
+  "navigation": [
+    { "label": "Home", "href": "/" },
+    { "label": "About Us", "href": "/about-us" },
+    {
+      "label": "Products",
+      "href": "/marble",
+      "children": [
+        { "label": "Granite", "href": "/granite" },
+        { "label": "Marble", "href": "/marble" },
+        { "label": "Tiles", "href": "/tiles" },
+        { "label": "Quartz", "href": "/quartz" }
+      ]
+    },
+    { "label": "Blog", "href": "/our-blogs" },
+    { "label": "Gallery", "href": "/our-gallery" }
+  ],
+  "cta": {
+    "label": "Get Quote",
+    "href": "/contact-us"
+  },
+  "footer": {
+    "tagline": "Marmilix – Premium Marble & Granite",
+    "description": "Marmillix, a trusted Indian stone brand offering natural marble, granite, and custom stone solutions for homes, architects, and global buyers. We also export marbles and granites in African nations such as Kenya, Nigeria, Ghana, Tanzania, and South Africa. Our teams deliver on time and ensure a secure delivery.",
+    "companyLinks": [
+      { "label": "About Us", "href": "/about-us" },
+      { "label": "Blog", "href": "/our-blogs" },
+      { "label": "FAQ", "href": "/faq" }
+    ],
+    "productLinks": [
+      { "label": "Marble Collection", "href": "/marble" },
+      { "label": "Granite Collection", "href": "/granite" },
+      { "label": "Custom Stone Solutions", "href": "/contact-us" }
+    ],
+    "resourceLinks": [
+      { "label": "Portfolio", "href": "/our-gallery" },
+      { "label": "Care & Maintenance", "href": "/care-and-maintenance" },
+      { "label": "Design Gallery", "href": "/our-gallery" }
+    ],
+    "contact": {
+      "email": "info@marmilix.com",
+      "phone": "+91 8109663368",
+      "address": "Sheopur, Madhya Pradesh, India"
+    },
+    "social": [
+      { "label": "Facebook", "href": "https://www.facebook.com/marmilix/" },
+      { "label": "Instagram", "href": "https://www.instagram.com/marmilix_official/" },
+      { "label": "X (Twitter)", "href": "https://x.com/marmilix" },
+      { "label": "Pinterest", "href": "https://in.pinterest.com/marmilix/" },
+      { "label": "LinkedIn", "href": "https://www.linkedin.com/company/marmilix/" }
+    ],
+    "copyright": "© 2026 Marmilix. All rights reserved.",
+    "developer": {
+      "label": "Technohands Solution",
+      "href": "https://technohandssolution.com/"
+    },
+    "legal": [
+      { "label": "Privacy Policy", "href": "/privacy-policy" },
+      { "label": "Terms of Services", "href": "/terms-of-service" }
+    ]
+  }
+}

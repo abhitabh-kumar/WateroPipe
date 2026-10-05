@@ -1,0 +1,134 @@
+{
+  "title": "Premium Marble Collection",
+  "subtitle": "Discover Our Exquisite Range",
+  "products": [
+    {
+      "id": "invisible-grey-marble",
+      "category": "Marble",
+      "name": "Invisible Grey Marble",
+      "image": "https://marmilix.com/gallery/InvisibleGreyMarble.webp",
+      "alt": "Invisible Grey Marble",
+      "description": "Invisible Grey Marble offers an elegant mix of grey tones with fine white veining. This sophisticated stone adds a luxurious touch to kitchen islands, walls, and bathrooms."
+    },
+    {
+      "id": "calacatta-statuario-marble",
+      "category": "Marble",
+      "name": "Calacatta Statuario Marble",
+      "image": "calacattastatuariomarble.webp",
+      "alt": "Calacatta Statuario Marble",
+      "description": "Calacatta Statuario Marble is an Italian luxury stone known for its bold grey veining and bright white base. A perfect choice for premium flooring, bathroom walls, and grand interiors."
+    },
+    {
+      "id": "golden-portoro-marble",
+      "category": "Marble",
+      "name": "Golden Portoro Marble",
+      "image": "GoldenPortoroMarble.webp",
+      "alt": "Golden Portoro Marble",
+      "description": "Golden Portoro Marble is a striking black marble with luxurious gold veins. Perfect for feature walls, bathrooms, and statement décor pieces in opulent interior designs."
+    },
+    {
+      "id": "perlato-marble",
+      "category": "Marble",
+      "name": "Perlato Marble",
+      "image": "Perlatomarble (1).webp",
+      "alt": "Perlato Marble",
+      "description": "Perlato Marble offers warm beige tones with delicate veins, creating a timeless, elegant look. It’s an excellent choice for luxury flooring, bathrooms, and reception areas."
+    },
+    {
+      "id": "statuario-black-marble",
+      "category": "Marble",
+      "name": "Statuario Black Marble",
+      "image": "statuarioblarble.webp",
+      "alt": "Statuario Black Marble",
+      "description": "Statuario Black Marble blends a bold black base with delicate white veining. A luxurious stone ideal for premium interiors, wall panels, and flooring applications."
+    },
+    {
+      "id": "white-statuario-marble",
+      "category": "Marble",
+      "name": "White Statuario Marble",
+      "image": "testatuariomarble.webp",
+      "alt": "White Statuario Marble",
+      "description": "White Statuario Marble is known for its pure white background and distinctive grey veins. It’s a top choice for luxury flooring, bathroom walls, and statement interiors."
+    },
+    {
+      "id": "wonder-white-marble",
+      "category": "Marble",
+      "name": "Wonder White Marble",
+      "image": "WonderWhiteMarble (1).webp",
+      "alt": "Wonder White Marble",
+      "description": "Wonder White Marble is a highly durable Indian white marble with natural elegance. Commonly used for temples, heritage buildings, and high-end residential projects."
+    },
+    {
+      "id": "khatu-marble",
+      "category": "Marble",
+      "name": "Khatu Marble",
+      "image": "katuuu.webp",
+      "alt": "Khatu Marble",
+      "description": "Khatu Marble is an elegant white marble from Rajasthan, prized for its purity and smooth texture. Commonly used in temples, sculptures, and premium residential interiors."
+    },
+    {
+      "id": "makrana-dungri-marble",
+      "category": "Marble",
+      "name": "Makrana Dungri Marble",
+      "image": "dungroo.webp",
+      "alt": "Makrana Dungri Marble",
+      "description": "Makrana Dungri Marble is a high-quality white marble known for its fine grain and historic use in monuments. Perfect for luxurious flooring, wall cladding, and heritage architecture."
+    },
+    {
+      "id": "makrana-pink-marble",
+      "category": "Marble",
+      "name": "Makrana Pink Marble",
+      "image": "makrana-pink-dungri-marble-1.webp",
+      "alt": "Makrana Pink Marble",
+      "description": "Makrana Pink Marble is a soft, pastel-toned marble that brings a subtle charm to interiors. Perfect for wall décor, temples, and statement flooring in classic and contemporary designs."
+    },
+    {
+      "id": "brown-katni-marble",
+      "category": "Marble",
+      "name": "Brown Katni Marble",
+      "image": "BrownKatniMarble (1).webp",
+      "alt": "Brown Katni Marble",
+      "description": "Brown Katni Marble displays warm beige and brown hues with natural veining. Its earthy elegance makes it ideal for modern living rooms, hallways, and hotel interiors."
+    },
+    {
+      "id": "makrana-white-marble",
+      "category": "Marble",
+      "name": "Makrana White Marble",
+      "image": "MakranaWhiteMarble (1).webp",
+      "alt": "Makrana White Marble",
+      "description": "Makrana White Marble features a clean, polished white surface that enhances brightness and sophistication. Best suited for interior flooring, bathroom walls, and decorative architectur."
+    },
+    {
+      "id": "katni-wonder-marble",
+      "category": "Marble",
+      "name": "Katni Wonder Marble",
+      "image": "katniwondermarble (1).webp",
+      "alt": "Katni Wonder Marble",
+      "description": "Katni Wonder Marble is a premium Indian marble known for its smooth texture and stunning natural shine. It’s a perfect choice for luxurious floors, staircases, and wall panels."
+    },
+    {
+      "id": "makrana-pure-white-marble",
+      "category": "Marble",
+      "name": "Makrana Pure White Marble",
+      "image": "MakranaPureWhiteMarble (1).webp",
+      "alt": "Makrana Pure White Marble",
+      "description": "Makrana Pure White Marble is celebrated for its pristine color and timeless elegance. Its glossy finish and durability make it ideal for temples, living rooms, and grand entrances."
+    },
+    {
+      "id": "green-katni-marble",
+      "category": "Marble",
+      "name": "Green Katni Marble",
+      "image": "greenkatnimarble (1).webp",
+      "alt": "Green Katni Marble",
+      "description": "Green Katni Marble features soothing green tones with natural veining, offering an earthy and elegant look. Ideal for interior flooring, wall cladding, and luxurious bathrooms."
+    },
+    {
+      "id": "beige-katni-marble",
+      "category": "Marble",
+      "name": "Beige Katni Marble",
+      "image": "beigekatnimarble (2).webp",
+      "alt": "Beige Katni Marble",
+      "description": "Beige Katni Marble blends warm beige hues with subtle veins, creating a soft and inviting appearance. Perfect for modern interiors, flooring, and large wall spaces."
+    }
+  ]
+}

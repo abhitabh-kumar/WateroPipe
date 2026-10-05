@@ -1,0 +1,96 @@
+{
+  "title": "Design Gallery",
+  "subtitle": "Explore inspiring marble and granite installations.",
+  "images": [
+    {
+      "id": "gallery-1",
+      "src": "https://zicanaboutique.com/cdn/shop/articles/green-granite-countertops-sustainable-elegance-for-modern-homes-693164.png?v=1741092630",
+      "alt": "Gallery image 1"
+    },
+    {
+      "id": "gallery-2",
+      "src": "Veined-Marble-Patterns-for-Natural-Sophistication.jpg",
+      "alt": "Gallery image 2"
+    },
+    {
+      "id": "gallery-3",
+      "src": "https://www.madhavmarbles.com/wp-content/uploads/2024/12/titanium-granite-on-wall-cladding-in-restroom.png",
+      "alt": "Gallery image 3"
+    },
+    {
+      "id": "gallery-4",
+      "src": "https://s3-blog.homelane.com/design-ideas/wp-content/uploads/2025/08/01151224/luxury-modern-kitchen-granite-design-stylish-white-marble-2025.jpg",
+      "alt": "Gallery image 4"
+    },
+    {
+      "id": "gallery-5",
+      "src": "https://stonegalleria.in/uploads/blog_images/granite-wall.webp",
+      "alt": "Gallery image 5"
+    },
+    {
+      "id": "gallery-6",
+      "src": "https://4.imimg.com/data4/HS/LS/GLADMIN-2030060/wwww-500x500.jpg",
+      "alt": "Gallery image 6"
+    },
+    {
+      "id": "gallery-7",
+      "src": "/gallery/marble-bathroom.webp",
+      "alt": "Gallery image 7"
+    },
+    {
+      "id": "gallery-8",
+      "src": "/gallery/granite-kitchen.webp",
+      "alt": "Gallery image 8"
+    },
+    {
+      "id": "gallery-9",
+      "src": "/gallery/marble-wall.webp",
+      "alt": "Gallery image 9"
+    },
+    {
+      "id": "gallery-10",
+      "src": "/gallery/leather-granite.webp",
+      "alt": "Gallery image 10"
+    },
+    {
+      "id": "gallery-11",
+      "src": "/gallery/wonder-white.webp",
+      "alt": "Gallery image 11"
+    },
+    {
+      "id": "gallery-12",
+      "src": "/gallery/p-white.webp",
+      "alt": "Gallery image 12"
+    },
+    {
+      "id": "gallery-13",
+      "src": "/gallery/marble-pathway.webp",
+      "alt": "Gallery image 13"
+    },
+    {
+      "id": "gallery-14",
+      "src": "/gallery/granite-staircase.webp",
+      "alt": "Gallery image 14"
+    },
+    {
+      "id": "gallery-15",
+      "src": "/gallery/hotel-lobby-marble.webp",
+      "alt": "Gallery image 15"
+    },
+    {
+      "id": "gallery-16",
+      "src": "/gallery/texture-black.webp",
+      "alt": "Gallery image 16"
+    },
+    {
+      "id": "gallery-17",
+      "src": "/gallery/tiger.webp",
+      "alt": "Gallery image 17"
+    },
+    {
+      "id": "gallery-18",
+      "src": "/gallery/Kuppam-white.webp",
+      "alt": "Gallery image 18"
+    }
+  ]
+}
